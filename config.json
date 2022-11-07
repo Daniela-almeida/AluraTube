@@ -1,0 +1,133 @@
+{
+  "name": "Daniela Almeid",
+  "job": "Desenvolvedora Full Stack",
+  "github": "Daniela-almeida",
+  "playlists": {
+      "musicas": [
+          {
+              "title": "BTS (방탄소년단) 'Dynamite' Official MV",
+              "url": "https://www.youtube.com/watch?v=gdZLi9oWNZg",
+              "thumb": "https://img.youtube.com/vi/gdZLi9oWNZg/mqdefault.jpg"
+          },
+          {
+              "title": "진 (Jin) 'The Astronaut' Official MV",
+              "url": "https://www.youtube.com/watch?v=c6ASQOwKkhk",
+              "thumb": "https://img.youtube.com/vi/c6ASQOwKkhk/mqdefault.jpg"
+          },
+          {
+            "title": "Ayra Starr - Rush",
+              "url": "https://www.youtube.com/watch?v=crtQSTYWtqE",
+              "thumb": "https://img.youtube.com/vi/crtQSTYWtqE/mqdefault.jpg"
+          },
+          {
+              "title": "Beyoncé - 7/11",
+              "url": "https://www.youtube.com/watch?v=k4YRWT_Aldo",
+              "thumb": "https://img.youtube.com/vi/k4YRWT_Aldo/mqdefault.jpg"
+          },
+          {
+              "title": "Imagine Dragons - Birds (Animated Video)",
+              "url": "https://www.youtube.com/watch?v=vOXZkm9p_zY",
+              "thumb": "https://i.ytimg.com/an_webp/vOXZkm9p_zY/mqdefault_6s.webp?du=3000&sqp=CMD0pZsG&rs=AOn4CLCz2tfziEDkpn-Qm3-DVtHG2gZNGg"
+          },
+          {
+              "title": "Justin Bieber - I'll Show You",
+              "url": "https://www.youtube.com/watch?v=PfGaX8G0f2E",
+              "thumb": "https://i.ytimg.com/vi/JN72PzYYcLs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEq_vA71rbH_Wo--OlBpL9Wg_taQ"
+          },
+          {
+              "title": "Meditation Music for Positive Energy - Relax Mind Body, Clearing Subconscious Negativity & Blockages",
+              "url": "https://www.youtube.com/watch?v=Ho91a_GwYxs",
+              "thumb": "https://img.youtube.com/vi/Ho91a_GwYxs/mqdefault.jpg"
+          },
+          {
+              "title": "melhores musicas anos 2000 pura nostalgia",
+              "url": "https://www.youtube.com/watch?v=5NPBIwQyPWE&list=PL1Pk9W7-DjJifJ2jhbsHVFOzEEWjB582E",
+              "thumb": "https://img.youtube.com/vi/5NPBIwQyPWE/mqdefault.jpg"
+          }
+      ],
+      "front-end": [
+          {
+              "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+              "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+              "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+          },
+          {
+              "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+              "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+              "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+          },
+          {
+              "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+              "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+              "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+          },
+          {
+              "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+              "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+              "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+          },
+          {
+              "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+              "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+              "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+          },
+          {
+              "title": "Como Foi Programado um App Que Faz Mágica",
+              "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+              "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+          },
+          {
+              "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+              "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+              "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+          },
+          {
+              "title": "5 Erros Históricos do CSS",
+              "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+              "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+          },
+          {
+              "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+              "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+              "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+          }
+      ],
+      "back-end": [
+          {
+              "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+              "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+              "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+          },
+          {
+              "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+              "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+              "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+          },
+          {
+              "title": "O que é o Java? #HipstersPontoTube",
+              "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+              "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+          },
+          {
+              "title": "O que é Machine Learning? #HipstersPontoTube",
+              "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+              "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+          },
+          {
+              "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+              "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+              "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+          },
+          {
+              "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+              "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+              "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+          },
+          {
+              "title": "O que é o C#? #HipstersPontoTube",
+              "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+              "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+          }
+      ]
+  }
+}
